@@ -1,0 +1,21 @@
+{
+  "name": "elm-vizceral",
+  "homepage": "https://github.com/Baransu/",
+  "authors": [
+    "Tomasz Cichocinski <tomaszcichocinski@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vizceral-component": "https://github.com/Netflix/vizceral-component.git#master",
+    "webcomponentsjs": "^0.7.21"
+  }
+}
